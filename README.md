@@ -15,4 +15,4 @@
 
 **Tools**: Google Colab, Tableau
 
-**Data source**:[Inside Airbnb](http://insideairbnb.com/get-the-data)
+**Data source**: [Inside Airbnb](http://insideairbnb.com/get-the-data)
