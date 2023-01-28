@@ -1,6 +1,6 @@
 # Airbnb-data-analytics:Project Summary
 [For the Interactive version dashboard](https://public.tableau.com/app/profile/jake6334/viz/BostonAirbnb_16749439576350/Dashboard1?publish=yes)
-![alt text]()
+![alt text](https://github.com/YunlouTeng/Airbnb-data-analytics/blob/main/Dashboard.png)
 
 * **Goal**:
    * Analyzing the occupancy rate of listings in different zipcodes to identify areas with high demand and low supply.
