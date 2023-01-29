@@ -7,7 +7,8 @@
    * Examining the relationship between the price of a listing and its occupancy rate to identify pricing strategies that are most effective.
 
 * **Findings**:
-   * 
+   * Charlestown is a highly sought-after neighborhood for short-term Airbnb guests in Boston, with a 3-month booked rate of 70.33%, the forth highest among all neighborhoods in the city. The average booking price in Charlestown is $250 per night, which is above the Boston average of $184 per night, representing a 35.8% increase. This makes Charlestown a popular choice for those looking for a higher-end Airbnb experience in Boston.
+   * With the second highest booked rate, Allston is considered an underrated neighborhood in terms of its pricing. It offers relatively affordable prices at $124 per night, 32% below the city average of $184. While Charlestown mainly caters to short-term rentals, Allston also offers long-term rental options, making it an attractive option for extended stays.This makes it an attractive option for those looking for a more extended stay in Boston. Overall, Allston is a great value for money option for Airbnb guests in Boston.
 
 ## Code and Resources Used
 
